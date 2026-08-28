@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lmikhelashvili
-- 🌱 Graduated from Smith College in 2023
+- 🌱 Graduated from Smith College in 2023, Currently at MIT
 - 📫 Reach me at likamikhela@gmail.com
 
 <!---
